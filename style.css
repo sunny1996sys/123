@@ -123,17 +123,22 @@ h1{
 	margin: 0px;
 	background: white;
 }
+
 .slider{
 	width: 80%;
 	height: 400px;
 	margin: 0px auto;
-	background: url(img/download%201.jpg);
+/*	background: url(img/download%201.jpg);*/
 	background-size: 100%;
+/*
 	background-position: center center;
 	background-repeat: no-repeat;
-	animation: slider 5s infinite;
+*/
+	animation: slider 2s infinite;
 		
 }
+
+/*
 @keyframes slider{
 	25%{
 		background: url(img/download%202.jpg);
@@ -160,6 +165,8 @@ h1{
 		background-repeat: no-repeat;
 	}
 }
+*/
+*/
 
 *{
 	margin: 0;
